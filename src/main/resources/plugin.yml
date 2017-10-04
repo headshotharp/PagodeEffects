@@ -1,0 +1,7 @@
+name: BukkitMessenger
+main: de.headshotharp.pagode.Effects
+version: 1.0
+author: HeadShotHarp
+description: >
+             Pagode Effects Plugin for Minecraft 1.12.2 spigot
+commands:
